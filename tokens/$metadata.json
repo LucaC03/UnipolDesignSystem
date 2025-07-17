@@ -1,3 +1,14 @@
 {
-  "tokenSetOrder": []
+  "tokenSetOrder": [
+    "Color/SDS Light",
+    "Color/SDS Dark",
+    "Color/Brand B Light",
+    "Color Primitives/Value",
+    "Typography Primitives/Default",
+    "Typography/Mode 1",
+    "Responsive/Desktop",
+    "Responsive/Mobile",
+    "Responsive/Tablet",
+    "Size/Default"
+  ]
 }
