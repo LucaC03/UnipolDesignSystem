@@ -1,0 +1,120 @@
+{
+  "sizing": {
+    "value": "1",
+    "type": "sizing"
+  },
+  "typography": {
+    "value": {
+      "fontFamily": "1",
+      "fontWeight": "1",
+      "fontSize": "1",
+      "lineHeight": "1",
+      "letterSpacing": "1",
+      "paragraphSpacing": "1",
+      "paragraphIndent": "1",
+      "textDecoration": "1",
+      "textCase": "1"
+    },
+    "type": "typography"
+  },
+  "font family": {
+    "value": "1",
+    "type": "fontFamilies"
+  },
+  "spacing": {
+    "value": "1",
+    "type": "spacing"
+  },
+  "color": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "border radius": {
+    "value": "1",
+    "type": "borderRadius"
+  },
+  "BorderWidth": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "Border": {
+    "value": {
+      "color": "FFFFFF",
+      "width": "1"
+    },
+    "type": "border"
+  },
+  "opacity": {
+    "value": "1",
+    "type": "opacity"
+  },
+  "Box shadow": {
+    "value": {
+      "x": "1",
+      "y": "0",
+      "blur": "0",
+      "spread": "0",
+      "color": "#000000",
+      "type": "innerShadow"
+    },
+    "type": "boxShadow"
+  },
+  "fontweight": {
+    "value": "1",
+    "type": "fontWeights"
+  },
+  "lineheight": {
+    "value": "1",
+    "type": "lineHeights"
+  },
+  "fontsize": {
+    "value": "1",
+    "type": "fontSizes"
+  },
+  "letterspacing": {
+    "value": "1",
+    "type": "letterSpacing"
+  },
+  "paragraph spacing": {
+    "value": "1",
+    "type": "paragraphSpacing"
+  },
+  "textcase": {
+    "value": "1",
+    "type": "textCase"
+  },
+  "textdecoration": {
+    "value": "1",
+    "type": "textDecoration"
+  },
+  "dimension": {
+    "value": "1 px",
+    "type": "dimension"
+  },
+  "asset": {
+    "value": "1",
+    "type": "asset"
+  },
+  "composition": {
+    "value": {
+      "height": "1"
+    },
+    "type": "composition"
+  },
+  "boolean": {
+    "value": "1",
+    "type": "boolean"
+  },
+  "text": {
+    "value": "1",
+    "type": "text"
+  },
+  "number": {
+    "value": "1",
+    "type": "number"
+  },
+  "other": {
+    "value": "1",
+    "type": "other"
+  }
+}

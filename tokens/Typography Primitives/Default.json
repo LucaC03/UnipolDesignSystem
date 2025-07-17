@@ -1,0 +1,126 @@
+{
+  "Family Sans": {
+    "value": "Inter",
+    "type": "fontFamilies"
+  },
+  "Family Serif": {
+    "value": "Noto Serif",
+    "type": "fontFamilies"
+  },
+  "Family Mono": {
+    "value": "Roboto Mono",
+    "type": "fontFamilies"
+  },
+  "Weight Light Italic": {
+    "value": "Light Italic",
+    "type": "fontWeights"
+  },
+  "Weight Regular Italic": {
+    "value": "Italic",
+    "type": "fontWeights"
+  },
+  "Weight Bold Italic": {
+    "value": "Bold Italic",
+    "type": "fontWeights"
+  },
+  "Weight Thin Italic": {
+    "value": "Thin Italic",
+    "type": "fontWeights"
+  },
+  "Weight Extralight Italic": {
+    "value": "Extra Light Italic",
+    "type": "fontWeights"
+  },
+  "Weight Medium Italic": {
+    "value": "Medium Italic",
+    "type": "fontWeights"
+  },
+  "Weight Semibold Italic": {
+    "value": "Semi Bold Italic",
+    "type": "fontWeights"
+  },
+  "Weight Extra Bold Italic": {
+    "value": "Extra Bold Italic",
+    "type": "fontWeights"
+  },
+  "Weight Black Italic": {
+    "value": "Black Italic",
+    "type": "fontWeights"
+  },
+  "Weight Thin": {
+    "value": "100",
+    "type": "number"
+  },
+  "Weight Extra Light": {
+    "value": "200",
+    "type": "number"
+  },
+  "Weight Light": {
+    "value": "300",
+    "type": "number"
+  },
+  "Weight Regular": {
+    "value": "400",
+    "type": "number"
+  },
+  "Weight Medium": {
+    "value": "500",
+    "type": "number"
+  },
+  "Weight Semibold": {
+    "value": "600",
+    "type": "number"
+  },
+  "Weight Bold": {
+    "value": "700",
+    "type": "number"
+  },
+  "Weight Extra Bold": {
+    "value": "800",
+    "type": "number"
+  },
+  "Weight Black": {
+    "value": "900",
+    "type": "number"
+  },
+  "Scale 10": {
+    "value": "72",
+    "type": "fontSizes"
+  },
+  "Scale 09": {
+    "value": "64",
+    "type": "fontSizes"
+  },
+  "Scale 08": {
+    "value": "48",
+    "type": "fontSizes"
+  },
+  "Scale 07": {
+    "value": "40",
+    "type": "fontSizes"
+  },
+  "Scale 06": {
+    "value": "32",
+    "type": "fontSizes"
+  },
+  "Scale 05": {
+    "value": "24",
+    "type": "fontSizes"
+  },
+  "Scale 04": {
+    "value": "20",
+    "type": "fontSizes"
+  },
+  "Scale 03": {
+    "value": "16",
+    "type": "fontSizes"
+  },
+  "Scale 02": {
+    "value": "14",
+    "type": "fontSizes"
+  },
+  "Scale 01": {
+    "value": "12",
+    "type": "fontSizes"
+  }
+}

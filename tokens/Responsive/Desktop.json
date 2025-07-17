@@ -1,0 +1,18 @@
+{
+  "Device": {
+    "value": "desktop",
+    "type": "text"
+  },
+  "Device Width": {
+    "value": "1200",
+    "type": "number"
+  },
+  "Root Font Size": {
+    "value": "{Scale 03}",
+    "type": "number"
+  },
+  "Scale": {
+    "value": "1",
+    "type": "number"
+  }
+}
