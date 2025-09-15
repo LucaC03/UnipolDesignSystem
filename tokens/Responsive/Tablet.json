@@ -1,18 +1,18 @@
 {
   "Device": {
-    "value": "tablet",
-    "type": "text"
+    "$type": "text",
+    "$value": "tablet"
   },
   "Device Width": {
-    "value": 768,
-    "type": "number"
+    "$type": "number",
+    "$value": 768
   },
   "Root Font Size": {
-    "value": "{Scale 03}",
-    "type": "number"
+    "$type": "number",
+    "$value": "{Scale 03}"
   },
   "Scale": {
-    "value": 1,
-    "type": "number"
+    "$type": "number",
+    "$value": 1
   }
 }

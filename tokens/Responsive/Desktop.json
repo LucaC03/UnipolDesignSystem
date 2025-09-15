@@ -1,18 +1,18 @@
 {
   "Device": {
-    "value": "desktop",
-    "type": "text"
+    "$type": "text",
+    "$value": "desktop"
   },
   "Device Width": {
-    "value": 1200,
-    "type": "number"
+    "$type": "number",
+    "$value": 1200
   },
   "Root Font Size": {
-    "value": "{Scale 03}",
-    "type": "number"
+    "$type": "number",
+    "$value": "{Scale 03}"
   },
   "Scale": {
-    "value": 1,
-    "type": "number"
+    "$type": "number",
+    "$value": 1
   }
 }
