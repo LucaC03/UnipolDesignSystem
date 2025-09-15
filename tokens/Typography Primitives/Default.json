@@ -1,130 +1,130 @@
 {
   "Family Sans": {
-    "value": "Inter",
-    "type": "text"
+    "$type": "text",
+    "$value": "Inter"
   },
   "Family Serif": {
-    "value": "Noto Serif",
-    "type": "text"
+    "$type": "text",
+    "$value": "Noto Serif"
   },
   "Family Mono": {
-    "value": "Roboto Mono",
-    "type": "text"
+    "$type": "text",
+    "$value": "Roboto Mono"
   },
   "Weight Light Italic": {
-    "value": "Light Italic",
-    "type": "text"
+    "$type": "text",
+    "$value": "Light Italic"
   },
   "Weight Regular Italic": {
-    "value": "Italic",
-    "type": "text"
+    "$type": "text",
+    "$value": "Italic"
   },
   "Weight Bold Italic": {
-    "value": "Bold Italic",
-    "type": "text"
+    "$type": "text",
+    "$value": "Bold Italic"
   },
   "Weight Thin Italic": {
-    "value": "Thin Italic",
-    "type": "text"
+    "$type": "text",
+    "$value": "Thin Italic"
   },
   "Weight Extralight Italic": {
-    "value": "Extra Light Italic",
-    "type": "text"
+    "$type": "text",
+    "$value": "Extra Light Italic"
   },
   "Weight Medium Italic": {
-    "value": "Medium Italic",
-    "type": "text"
+    "$type": "text",
+    "$value": "Medium Italic"
   },
   "Weight Semibold Italic": {
-    "value": "Semi Bold Italic",
-    "type": "text"
+    "$type": "text",
+    "$value": "Semi Bold Italic"
   },
   "Weight Extra Bold Italic": {
-    "value": "Extra Bold Italic",
-    "type": "text"
+    "$type": "text",
+    "$value": "Extra Bold Italic"
   },
   "Weight Black Italic": {
-    "value": "Black Italic",
-    "type": "text"
+    "$type": "text",
+    "$value": "Black Italic"
   },
   "Family Unipol": {
-    "value": "Apex New",
-    "type": "text"
+    "$type": "text",
+    "$value": "Apex New"
   },
   "Weight Thin": {
-    "value": 100,
-    "type": "number"
+    "$type": "number",
+    "$value": 100
   },
   "Weight Extra Light": {
-    "value": 200,
-    "type": "number"
+    "$type": "number",
+    "$value": 200
   },
   "Weight Light": {
-    "value": 300,
-    "type": "number"
+    "$type": "number",
+    "$value": 300
   },
   "Weight Regular": {
-    "value": 400,
-    "type": "number"
+    "$type": "number",
+    "$value": 400
   },
   "Weight Medium": {
-    "value": 500,
-    "type": "number"
+    "$type": "number",
+    "$value": 500
   },
   "Weight Semibold": {
-    "value": 600,
-    "type": "number"
+    "$type": "number",
+    "$value": 600
   },
   "Weight Bold": {
-    "value": 700,
-    "type": "number"
+    "$type": "number",
+    "$value": 700
   },
   "Weight Extra Bold": {
-    "value": 800,
-    "type": "number"
+    "$type": "number",
+    "$value": 800
   },
   "Weight Black": {
-    "value": 900,
-    "type": "number"
+    "$type": "number",
+    "$value": 900
   },
   "Scale 10": {
-    "value": 72,
-    "type": "number"
+    "$type": "number",
+    "$value": 72
   },
   "Scale 09": {
-    "value": 64,
-    "type": "number"
+    "$type": "number",
+    "$value": 64
   },
   "Scale 08": {
-    "value": 48,
-    "type": "number"
+    "$type": "number",
+    "$value": 48
   },
   "Scale 07": {
-    "value": 40,
-    "type": "number"
+    "$type": "number",
+    "$value": 40
   },
   "Scale 06": {
-    "value": 32,
-    "type": "number"
+    "$type": "number",
+    "$value": 32
   },
   "Scale 05": {
-    "value": 24,
-    "type": "number"
+    "$type": "number",
+    "$value": 24
   },
   "Scale 04": {
-    "value": 20,
-    "type": "number"
+    "$type": "number",
+    "$value": 20
   },
   "Scale 03": {
-    "value": 16,
-    "type": "number"
+    "$type": "number",
+    "$value": 16
   },
   "Scale 02": {
-    "value": 14,
-    "type": "number"
+    "$type": "number",
+    "$value": 14
   },
   "Scale 01": {
-    "value": 12,
-    "type": "number"
+    "$type": "number",
+    "$value": 12
   }
 }

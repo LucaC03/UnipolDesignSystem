@@ -2,740 +2,740 @@
   "Background": {
     "Default": {
       "Default": {
-        "value": "{Gray.900}",
-        "type": "color",
-        "description": "Bg/Default/Default"
+        "$type": "color",
+        "$value": "{Gray.900}",
+        "$description": "Bg/Default/Default"
       },
       "Secondary": {
-        "value": "{Gray.800}",
-        "type": "color",
-        "description": "Bg/Default/Secondary"
+        "$type": "color",
+        "$value": "{Gray.800}",
+        "$description": "Bg/Default/Secondary"
       },
       "Tertiary": {
-        "value": "{Gray.600}",
-        "type": "color",
-        "description": "Bg/Default/Tertiary"
+        "$type": "color",
+        "$value": "{Gray.600}",
+        "$description": "Bg/Default/Tertiary"
       },
       "Default Hover": {
-        "value": "{Gray.700}",
-        "type": "color",
-        "description": "Bg/Default/Default Hover"
+        "$type": "color",
+        "$value": "{Gray.700}",
+        "$description": "Bg/Default/Default Hover"
       },
       "Secondary Hover": {
-        "value": "{Gray.900}",
-        "type": "color",
-        "description": "Bg/Default/Secondary Hover"
+        "$type": "color",
+        "$value": "{Gray.900}",
+        "$description": "Bg/Default/Secondary Hover"
       },
       "Tertiary Hover": {
-        "value": "{Gray.700}",
-        "type": "color",
-        "description": "Bg/Default/Tertiary Hover"
+        "$type": "color",
+        "$value": "{Gray.700}",
+        "$description": "Bg/Default/Tertiary Hover"
       }
     },
     "Brand": {
       "Default": {
-        "value": "{Brand.100}",
-        "type": "color",
-        "description": "Bg/Brand/Default"
+        "$type": "color",
+        "$value": "{Brand.100}",
+        "$description": "Bg/Brand/Default"
       },
       "Secondary": {
-        "value": "{Brand.600}",
-        "type": "color",
-        "description": "Bg/Brand/Secondary"
+        "$type": "color",
+        "$value": "{Brand.600}",
+        "$description": "Bg/Brand/Secondary"
       },
       "Hover": {
-        "value": "{Brand.300}",
-        "type": "color",
-        "description": "Bg/Brand/Hover"
+        "$type": "color",
+        "$value": "{Brand.300}",
+        "$description": "Bg/Brand/Hover"
       },
       "Secondary Hover": {
-        "value": "{Brand.500}",
-        "type": "color",
-        "description": "Bg/Brand/Secondary Hover"
+        "$type": "color",
+        "$value": "{Brand.500}",
+        "$description": "Bg/Brand/Secondary Hover"
       },
       "Tertiary": {
-        "value": "{Brand.600}",
-        "type": "color",
-        "description": "Bg/Brand/Tertiary"
+        "$type": "color",
+        "$value": "{Brand.600}",
+        "$description": "Bg/Brand/Tertiary"
       },
       "Tertiary Hover": {
-        "value": "{Brand.800}",
-        "type": "color",
-        "description": "Bg/Brand/Tertiary Hover"
+        "$type": "color",
+        "$value": "{Brand.800}",
+        "$description": "Bg/Brand/Tertiary Hover"
       }
     },
     "Positive": {
       "Default": {
-        "value": "{Green.700}",
-        "type": "color",
-        "description": "Bg/Positive/Default"
+        "$type": "color",
+        "$value": "{Green.700}",
+        "$description": "Bg/Positive/Default"
       },
       "Secondary": {
-        "value": "{Green.800}",
-        "type": "color",
-        "description": "Bg/Positive/Secondary"
+        "$type": "color",
+        "$value": "{Green.800}",
+        "$description": "Bg/Positive/Secondary"
       },
       "Hover": {
-        "value": "{Green.800}",
-        "type": "color",
-        "description": "Bg/Positive/Hover"
+        "$type": "color",
+        "$value": "{Green.800}",
+        "$description": "Bg/Positive/Hover"
       },
       "Secondary Hover": {
-        "value": "{Green.900}",
-        "type": "color",
-        "description": "Bg/Positive/Secondary Hover"
+        "$type": "color",
+        "$value": "{Green.900}",
+        "$description": "Bg/Positive/Secondary Hover"
       },
       "Tertiary": {
-        "value": "{Green.900}",
-        "type": "color",
-        "description": "Bg/Positive/Tertiary"
+        "$type": "color",
+        "$value": "{Green.900}",
+        "$description": "Bg/Positive/Tertiary"
       },
       "Tertiary Hover": {
-        "value": "{Green.1000}",
-        "type": "color",
-        "description": "Bg/Positive/Tertiary Hover"
+        "$type": "color",
+        "$value": "{Green.1000}",
+        "$description": "Bg/Positive/Tertiary Hover"
       }
     },
     "Warning": {
       "Default": {
-        "value": "{Yellow.400}",
-        "type": "color",
-        "description": "Bg/Warning/Default"
+        "$type": "color",
+        "$value": "{Yellow.400}",
+        "$description": "Bg/Warning/Default"
       },
       "Secondary": {
-        "value": "{Yellow.800}",
-        "type": "color",
-        "description": "Bg/Warning/Secondary"
+        "$type": "color",
+        "$value": "{Yellow.800}",
+        "$description": "Bg/Warning/Secondary"
       },
       "Hover": {
-        "value": "{Yellow.500}",
-        "type": "color",
-        "description": "Bg/Warning/Hover"
+        "$type": "color",
+        "$value": "{Yellow.500}",
+        "$description": "Bg/Warning/Hover"
       },
       "Secondary Hover": {
-        "value": "{Yellow.900}",
-        "type": "color",
-        "description": "Bg/Warning/Secondary Hover"
+        "$type": "color",
+        "$value": "{Yellow.900}",
+        "$description": "Bg/Warning/Secondary Hover"
       },
       "Tertiary": {
-        "value": "{Yellow.900}",
-        "type": "color",
-        "description": "Bg/Warning/Tertiary"
+        "$type": "color",
+        "$value": "{Yellow.900}",
+        "$description": "Bg/Warning/Tertiary"
       },
       "Tertiary Hover": {
-        "value": "{Yellow.1000}",
-        "type": "color",
-        "description": "Bg/Warning/Tertiary Hover"
+        "$type": "color",
+        "$value": "{Yellow.1000}",
+        "$description": "Bg/Warning/Tertiary Hover"
       }
     },
     "Danger": {
       "Default": {
-        "value": "{Red.600}",
-        "type": "color",
-        "description": "Bg/Danger/Default"
+        "$type": "color",
+        "$value": "{Red.600}",
+        "$description": "Bg/Danger/Default"
       },
       "Secondary": {
-        "value": "{Red.800}",
-        "type": "color",
-        "description": "Bg/Danger/Secondary"
+        "$type": "color",
+        "$value": "{Red.800}",
+        "$description": "Bg/Danger/Secondary"
       },
       "Hover": {
-        "value": "{Red.700}",
-        "type": "color",
-        "description": "Bg/Danger/Hover"
+        "$type": "color",
+        "$value": "{Red.700}",
+        "$description": "Bg/Danger/Hover"
       },
       "Secondary Hover": {
-        "value": "{Red.900}",
-        "type": "color",
-        "description": "Bg/Danger/Secondary Hover"
+        "$type": "color",
+        "$value": "{Red.900}",
+        "$description": "Bg/Danger/Secondary Hover"
       },
       "Tertiary": {
-        "value": "{Red.900}",
-        "type": "color",
-        "description": "Bg/Danger/Tertiary"
+        "$type": "color",
+        "$value": "{Red.900}",
+        "$description": "Bg/Danger/Tertiary"
       },
       "Tertiary Hover": {
-        "value": "{Red.1000}",
-        "type": "color",
-        "description": "Bg/Danger/Tertiary Hover"
+        "$type": "color",
+        "$value": "{Red.1000}",
+        "$description": "Bg/Danger/Tertiary Hover"
       }
     },
     "Disabled": {
       "Default": {
-        "value": "{Brand.700}",
-        "type": "color",
-        "description": "Bg/Disabled/Default"
+        "$type": "color",
+        "$value": "{Brand.700}",
+        "$description": "Bg/Disabled/Default"
       }
     },
     "Utilities": {
       "Scrim": {
-        "value": "#000000cc",
-        "type": "color",
-        "description": "Bg/Utilities/Scrim"
+        "$type": "color",
+        "$value": "#000000cc",
+        "$description": "Bg/Utilities/Scrim"
       },
       "Overlay": {
-        "value": "#00000080",
-        "type": "color",
-        "description": "Bg/Utilities/Overlay"
+        "$type": "color",
+        "$value": "#00000080",
+        "$description": "Bg/Utilities/Overlay"
       },
       "Blanket": {
-        "value": "#000000b3",
-        "type": "color",
-        "description": "Bg/Utilities/Blanket"
+        "$type": "color",
+        "$value": "#000000b3",
+        "$description": "Bg/Utilities/Blanket"
       },
       "Measurement": {
-        "value": "{Pink.800}",
-        "type": "color",
-        "description": "Bg/Utilities/Measurement"
+        "$type": "color",
+        "$value": "{Pink.800}",
+        "$description": "Bg/Utilities/Measurement"
       }
     },
     "Neutral": {
       "Default": {
-        "value": "{Slate.400}",
-        "type": "color",
-        "description": "Bg/Neutral/Default"
+        "$type": "color",
+        "$value": "{Slate.400}",
+        "$description": "Bg/Neutral/Default"
       },
       "Hover": {
-        "value": "{Slate.500}",
-        "type": "color",
-        "description": "Bg/Neutral/Hover"
+        "$type": "color",
+        "$value": "{Slate.500}",
+        "$description": "Bg/Neutral/Hover"
       },
       "Secondary": {
-        "value": "{Slate.900}",
-        "type": "color",
-        "description": "Bg/Neutral/Secondary"
+        "$type": "color",
+        "$value": "{Slate.900}",
+        "$description": "Bg/Neutral/Secondary"
       },
       "Secondary Hover": {
-        "value": "{Slate.1000}",
-        "type": "color",
-        "description": "Bg/Neutral/Secondary Hover"
+        "$type": "color",
+        "$value": "{Slate.1000}",
+        "$description": "Bg/Neutral/Secondary Hover"
       },
       "Tertiary": {
-        "value": "{Slate.900}",
-        "type": "color",
-        "description": "Bg/Neutral/Tertiary"
+        "$type": "color",
+        "$value": "{Slate.900}",
+        "$description": "Bg/Neutral/Tertiary"
       },
       "Tertiary Hover": {
-        "value": "{Slate.1000}",
-        "type": "color",
-        "description": "Bg/Neutral/Tertiary Hover"
+        "$type": "color",
+        "$value": "{Slate.1000}",
+        "$description": "Bg/Neutral/Tertiary Hover"
       }
     }
   },
   "Text": {
     "Default": {
       "Default": {
-        "value": "{White.1000}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{White.1000}"
       },
       "Secondary": {
-        "value": "{White.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{White.500}"
       },
       "Tertiary": {
-        "value": "{White.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{White.400}"
       }
     },
     "Brand": {
       "Default": {
-        "value": "{Brand.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.100}"
       },
       "Secondary": {
-        "value": "{Brand.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.300}"
       },
       "Tertiary": {
-        "value": "{Brand.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.400}"
       },
       "On Brand": {
-        "value": "{Brand.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.900}"
       },
       "On Brand Secondary": {
-        "value": "{Brand.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.100}"
       },
       "On Brand Tertiary": {
-        "value": "{Brand.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.100}"
       }
     },
     "Positive": {
       "Default": {
-        "value": "{Green.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.200}"
       },
       "Secondary": {
-        "value": "{Green.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.400}"
       },
       "Tertiary": {
-        "value": "{Green.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.600}"
       },
       "On Positive": {
-        "value": "{Green.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.100}"
       },
       "On Positive Secondary": {
-        "value": "{Green.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.100}"
       },
       "On Positive Tertiary": {
-        "value": "{Green.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.100}"
       }
     },
     "Warning": {
       "Default": {
-        "value": "{Yellow.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.200}"
       },
       "Secondary": {
-        "value": "{Yellow.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.400}"
       },
       "Tertiary": {
-        "value": "{Yellow.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.600}"
       },
       "On Warning": {
-        "value": "{Yellow.1000}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.1000}"
       },
       "On Warning Secondary": {
-        "value": "{Yellow.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.100}"
       },
       "On Warning Tertiary": {
-        "value": "{Yellow.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.100}"
       }
     },
     "Danger": {
       "Default": {
-        "value": "{Red.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.200}"
       },
       "Secondary": {
-        "value": "{Red.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.400}"
       },
       "Tertiary": {
-        "value": "{Red.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.500}"
       },
       "On Danger": {
-        "value": "{Red.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.100}"
       },
       "On Danger Secondary": {
-        "value": "{Red.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.100}"
       },
       "On Danger Tertiary": {
-        "value": "{Red.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.100}"
       }
     },
     "Disabled": {
       "Default": {
-        "value": "{Brand.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.500}"
       },
       "On Disabled": {
-        "value": "{Brand.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.400}"
       }
     },
     "Utilities": {
       "Text On Overlay": {
-        "value": "{White.1000}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{White.1000}"
       },
       "Text On Measurement": {
-        "value": "{Pink.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Pink.200}"
       }
     },
     "Neutral": {
       "Default": {
-        "value": "{Slate.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.200}"
       },
       "Secondary": {
-        "value": "{Slate.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.300}"
       },
       "Tertiary": {
-        "value": "{Slate.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.400}"
       },
       "On Neutral": {
-        "value": "{Slate.1000}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.1000}"
       },
       "On Neutral Secondary": {
-        "value": "{Slate.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.100}"
       },
       "On Neutral Tertiary": {
-        "value": "{Slate.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.100}"
       }
     }
   },
   "Icon": {
     "Default": {
       "Default": {
-        "value": "{White.1000}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{White.1000}"
       },
       "Secondary": {
-        "value": "{White.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{White.500}"
       },
       "Tertiary": {
-        "value": "{White.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{White.400}"
       }
     },
     "Brand": {
       "Default": {
-        "value": "{Brand.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.100}"
       },
       "Secondary": {
-        "value": "{Brand.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.300}"
       },
       "Tertiary": {
-        "value": "{Brand.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.400}"
       },
       "On Brand": {
-        "value": "{Brand.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.900}"
       },
       "On Brand Secondary": {
-        "value": "{Brand.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.100}"
       },
       "On Brand Tertiary": {
-        "value": "{Brand.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.100}"
       }
     },
     "Positive": {
       "Default": {
-        "value": "{Green.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.200}"
       },
       "Secondary": {
-        "value": "{Green.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.400}"
       },
       "Tertiary": {
-        "value": "{Green.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.600}"
       },
       "On Positive": {
-        "value": "{Green.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.100}"
       },
       "On Positive Secondary": {
-        "value": "{Green.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.100}"
       },
       "On Positive Tertiary": {
-        "value": "{Green.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.100}"
       }
     },
     "Warning": {
       "Default": {
-        "value": "{Yellow.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.200}"
       },
       "Secondary": {
-        "value": "{Yellow.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.400}"
       },
       "Tertiary": {
-        "value": "{Yellow.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.600}"
       },
       "On Warning": {
-        "value": "{Yellow.1000}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.1000}"
       },
       "On Warning Secondary": {
-        "value": "{Yellow.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.100}"
       },
       "On Warning Tertiary": {
-        "value": "{Yellow.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.100}"
       }
     },
     "Danger": {
       "Default": {
-        "value": "{Red.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.200}"
       },
       "Secondary": {
-        "value": "{Red.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.400}"
       },
       "Tertiary": {
-        "value": "{Red.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.500}"
       },
       "On Danger": {
-        "value": "{Red.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.100}"
       },
       "On Danger Secondary": {
-        "value": "{Red.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.100}"
       },
       "On Danger Tertiary": {
-        "value": "{Red.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.100}"
       }
     },
     "Disabled": {
       "Default": {
-        "value": "{Brand.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.500}"
       },
       "On Disabled": {
-        "value": "{Brand.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.400}"
       }
     },
     "Neutral": {
       "Default": {
-        "value": "{Slate.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.200}"
       },
       "Secondary": {
-        "value": "{Slate.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.300}"
       },
       "Tertiary": {
-        "value": "{Slate.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.400}"
       },
       "On Neutral": {
-        "value": "{Slate.1000}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.1000}"
       },
       "On Neutral Secondary": {
-        "value": "{Slate.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.100}"
       },
       "On Neutral Tertiary": {
-        "value": "{Slate.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.100}"
       }
     },
     "Utilities": {
       "Icon On Measurement": {
-        "value": "{Pink.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Pink.200}"
       },
       "Icon": {
-        "value": "{Pink.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Pink.400}"
       }
     }
   },
   "Border": {
     "Default": {
       "Default": {
-        "value": "{Gray.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Gray.600}"
       },
       "Secondary": {
-        "value": "{Gray.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Gray.500}"
       },
       "tertiary": {
-        "value": "{Gray.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Gray.400}"
       }
     },
     "Brand": {
       "Default": {
-        "value": "{Brand.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.100}"
       },
       "Secondary": {
-        "value": "{Brand.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.300}"
       },
       "Tertiary": {
-        "value": "{Brand.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.400}"
       }
     },
     "Positive": {
       "Default": {
-        "value": "{Green.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.200}"
       },
       "Secondary": {
-        "value": "{Green.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.400}"
       },
       "tertiary": {
-        "value": "{Green.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Green.600}"
       }
     },
     "Warning": {
       "Default": {
-        "value": "{Yellow.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.200}"
       },
       "Secondary": {
-        "value": "{Yellow.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.400}"
       },
       "tertiary": {
-        "value": "{Yellow.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Yellow.600}"
       }
     },
     "Danger": {
       "Default": {
-        "value": "{Red.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.200}"
       },
       "Secondary": {
-        "value": "{Red.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.400}"
       },
       "Tertiary": {
-        "value": "{Red.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Red.500}"
       }
     },
     "Disabled": {
       "default": {
-        "value": "{Brand.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Brand.600}"
       }
     },
     "Utilities": {
       "Measurement": {
-        "value": "{Pink.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Pink.600}"
       },
       "Swatch": {
-        "value": "#ffffff3d",
-        "type": "color"
+        "$type": "color",
+        "$value": "#ffffff3d"
       }
     },
     "Neutral": {
       "Default": {
-        "value": "{Slate.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.100}"
       },
       "Secondary": {
-        "value": "{Slate.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.500}"
       },
       "tertiary": {
-        "value": "{Slate.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{Slate.600}"
       }
     }
   },
   "Input": {
     "Title": {
-      "value": "{White.1000}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{White.1000}"
     },
     "Text Placeholder": {
-      "value": "{White.400}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{White.400}"
     },
     "Border": {
-      "value": "{Gray.600}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{Gray.600}"
     },
     "Text Enabled": {
-      "value": "{White.400}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{White.400}"
     },
     "Radius": {
-      "value": "{Radius.200}",
-      "type": "number"
+      "$type": "number",
+      "$value": "{Radius.200}"
     },
     "Stroke": {
-      "value": "{Stroke.Border}",
-      "type": "number"
+      "$type": "number",
+      "$value": "{Stroke.Border}"
     }
   },
   "Tab": {
     "Color Stroke Selected": {
-      "value": "{White.1000}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{White.1000}"
     },
     "Color Stroke Deselected": {
-      "value": "{White.1000}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{White.1000}"
     },
     "Stroke Selected": {
-      "value": 1,
-      "type": "number"
+      "$type": "number",
+      "$value": 1
     },
     "Stroke Deselected": {
-      "value": 1,
-      "type": "number"
+      "$type": "number",
+      "$value": 1
     }
   },
   "Title": {
     "Title": {
-      "value": "{White.1000}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{White.1000}"
     },
     "Subtitle": {
-      "value": "{White.500}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{White.500}"
     }
   },
   "Font": {
     "Family Font": {
-      "value": "{Family Sans}",
-      "type": "text"
+      "$type": "text",
+      "$value": "{Family Sans}"
     },
     "Weight Bold": {
-      "value": "Bold",
-      "type": "text"
+      "$type": "text",
+      "$value": "Bold"
     },
     "Weight Regular": {
-      "value": "Regular",
-      "type": "text"
+      "$type": "text",
+      "$value": "Regular"
     }
   },
   "Brand": {
-    "value": "SDS Dark",
-    "type": "text"
+    "$type": "text",
+    "$value": "SDS Dark"
   },
   "Button": {
     "Radius": {
-      "value": "{Radius.200}",
-      "type": "number"
+      "$type": "number",
+      "$value": "{Radius.200}"
     },
     "Stroke": {
-      "value": "{Stroke.Border}",
-      "type": "number"
+      "$type": "number",
+      "$value": "{Stroke.Border}"
     }
   }
 }
