@@ -689,7 +689,7 @@
         "type": "color"
       },
       "Icon": {
-        "value": "{Icon.Brand.Default}",
+        "value": "{Unipol.300}",
         "type": "color"
       },
       "Title": {
@@ -711,7 +711,7 @@
         "type": "color"
       },
       "Icon": {
-        "value": "{Icon.Brand.Default}",
+        "value": "{Unipol.300}",
         "type": "color"
       },
       "Title": {
@@ -805,6 +805,52 @@
     "Stroke": {
       "value": "{Stroke.Null}",
       "type": "number"
+    }
+  },
+  "Card": {
+    "Background": {
+      "value": "{Unipol.100}",
+      "type": "color"
+    },
+    "Title": {
+      "value": "{Text.Brand.Default}",
+      "type": "color"
+    },
+    "Body": {
+      "value": "{Text.Brand.Default}",
+      "type": "color"
+    },
+    "Border": {
+      "value": "{Null}",
+      "type": "color"
+    },
+    "Padding Left": {
+      "value": "{Space.0}",
+      "type": "spacing"
+    },
+    "Padding Right": {
+      "value": "{Space.0}",
+      "type": "spacing"
+    },
+    "Padding Top": {
+      "value": "{Space.0}",
+      "type": "spacing"
+    },
+    "Padding Bottom": {
+      "value": "{Space.0}",
+      "type": "spacing"
+    },
+    "Gap": {
+      "value": "{Space.400}",
+      "type": "spacing"
+    },
+    "Text Margin": {
+      "value": "{Space.400}",
+      "type": "spacing"
+    },
+    "Border Radius": {
+      "value": "{Radius.100}",
+      "type": "borderRadius"
     }
   }
 }

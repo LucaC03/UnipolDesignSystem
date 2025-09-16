@@ -806,5 +806,47 @@
       "value": "{Stroke.Border}",
       "type": "number"
     }
+  },
+  "Card": {
+    "Background": {
+      "value": "{Background.Default.Default}",
+      "type": "color"
+    },
+    "Title": {
+      "value": "{Text.Brand.Default}",
+      "type": "color"
+    },
+    "Body": {
+      "value": "{Text.Brand.Default}",
+      "type": "color"
+    },
+    "Border": {
+      "value": "{Border.Default.Default}",
+      "type": "color"
+    },
+    "Padding Left": {
+      "value": "{Space.600}",
+      "type": "spacing"
+    },
+    "Padding Right": {
+      "value": "{Space.600}",
+      "type": "spacing"
+    },
+    "Padding Top": {
+      "value": "{Space.600}",
+      "type": "spacing"
+    },
+    "Padding Bottom": {
+      "value": "{Space.600}",
+      "type": "spacing"
+    },
+    "Gap": {
+      "value": "{Space.600}",
+      "type": "spacing"
+    },
+    "Text Margin": {
+      "value": "{Space.0}",
+      "type": "spacing"
+    }
   }
 }
