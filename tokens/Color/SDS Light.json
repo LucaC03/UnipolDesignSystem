@@ -682,6 +682,75 @@
       "type": "number"
     }
   },
+  "Accordion": {
+    "Open": {
+      "Background": {
+        "value": "{Background.Default.Default}",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "{Icon.Brand.Default}",
+        "type": "color"
+      },
+      "Title": {
+        "value": "{Text.Brand.Default}",
+        "type": "color"
+      },
+      "Body": {
+        "value": "{Text.Brand.Default}",
+        "type": "color"
+      },
+      "Border": {
+        "value": "{Border.Default.Default}",
+        "type": "color"
+      }
+    },
+    "Closed": {
+      "Background": {
+        "value": "{Background.Brand.Secondary}",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "{Icon.Brand.Default}",
+        "type": "color"
+      },
+      "Title": {
+        "value": "{Text.Brand.Default}",
+        "type": "color"
+      },
+      "Body": {
+        "value": "{Text.Brand.Default}",
+        "type": "color"
+      },
+      "Border": {
+        "value": "{Border.Default.Default}",
+        "type": "color"
+      }
+    },
+    "Radius": {
+      "value": "{Radius.200}",
+      "type": "number"
+    },
+    "Border Width": {
+      "value": "{Stroke.Border}",
+      "type": "borderWidth"
+    },
+    "Border Radius": {
+      "value": "{Radius.200}",
+      "type": "borderRadius"
+    },
+    "Shadow": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "0",
+        "color": "{Null}",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow"
+    }
+  },
   "Tab": {
     "Color Stroke Selected": {
       "value": "{Black.1000}",
@@ -692,11 +761,11 @@
       "type": "color"
     },
     "Stroke Selected": {
-      "value": 1,
+      "value": "1",
       "type": "number"
     },
     "Stroke Deselected": {
-      "value": 1,
+      "value": "1",
       "type": "number"
     }
   },

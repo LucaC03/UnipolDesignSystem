@@ -239,7 +239,7 @@
     },
     "Brand": {
       "Default": {
-        "value": "{Brand.800}",
+        "value": "{Unipol.800}",
         "type": "color"
       },
       "Secondary": {
@@ -682,6 +682,75 @@
       "type": "number"
     }
   },
+  "Accordion": {
+    "Open": {
+      "Background": {
+        "value": "{Background.Default.Default}",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "{Icon.Brand.Default}",
+        "type": "color"
+      },
+      "Title": {
+        "value": "{Text.Brand.Default}",
+        "type": "color"
+      },
+      "Body": {
+        "value": "{Text.Brand.Default}",
+        "type": "color"
+      },
+      "Border": {
+        "value": "{Null}",
+        "type": "color"
+      }
+    },
+    "Closed": {
+      "Background": {
+        "value": "{Background.Default.Default}",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "{Icon.Brand.Default}",
+        "type": "color"
+      },
+      "Title": {
+        "value": "{Text.Brand.Default}",
+        "type": "color"
+      },
+      "Body": {
+        "value": "{Text.Brand.Default}",
+        "type": "color"
+      },
+      "Border": {
+        "value": "{Null}",
+        "type": "color"
+      }
+    },
+    "Radius": {
+      "value": "{Radius.Null}",
+      "type": "number"
+    },
+    "Border Width": {
+      "value": "0",
+      "type": "borderWidth"
+    },
+    "Shadow": {
+      "value": {
+        "x": "0",
+        "y": "4",
+        "blur": "10",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.1)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "Border Radius": {
+      "value": "{Radius.100}",
+      "type": "borderRadius"
+    }
+  },
   "Tab": {
     "Color Stroke Selected": {
       "value": "{Unipol.400}",
@@ -692,11 +761,11 @@
       "type": "color"
     },
     "Stroke Selected": {
-      "value": 2,
+      "value": "2",
       "type": "number"
     },
     "Stroke Deselected": {
-      "value": 1,
+      "value": "1",
       "type": "number"
     }
   },

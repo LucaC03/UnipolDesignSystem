@@ -4,7 +4,7 @@
     "type": "text"
   },
   "Device Width": {
-    "value": 768,
+    "value": "768",
     "type": "number"
   },
   "Root Font Size": {
@@ -12,7 +12,7 @@
     "type": "number"
   },
   "Scale": {
-    "value": 1,
+    "value": "1",
     "type": "number"
   }
 }

@@ -52,79 +52,79 @@
     "type": "text"
   },
   "Weight Thin": {
-    "value": 100,
+    "value": "100",
     "type": "number"
   },
   "Weight Extra Light": {
-    "value": 200,
+    "value": "200",
     "type": "number"
   },
   "Weight Light": {
-    "value": 300,
+    "value": "300",
     "type": "number"
   },
   "Weight Regular": {
-    "value": 400,
+    "value": "400",
     "type": "number"
   },
   "Weight Medium": {
-    "value": 500,
+    "value": "500",
     "type": "number"
   },
   "Weight Semibold": {
-    "value": 600,
+    "value": "600",
     "type": "number"
   },
   "Weight Bold": {
-    "value": 700,
+    "value": "700",
     "type": "number"
   },
   "Weight Extra Bold": {
-    "value": 800,
+    "value": "800",
     "type": "number"
   },
   "Weight Black": {
-    "value": 900,
+    "value": "900",
     "type": "number"
   },
   "Scale 10": {
-    "value": 72,
+    "value": "72",
     "type": "number"
   },
   "Scale 09": {
-    "value": 64,
+    "value": "64",
     "type": "number"
   },
   "Scale 08": {
-    "value": 48,
+    "value": "48",
     "type": "number"
   },
   "Scale 07": {
-    "value": 40,
+    "value": "40",
     "type": "number"
   },
   "Scale 06": {
-    "value": 32,
+    "value": "32",
     "type": "number"
   },
   "Scale 05": {
-    "value": 24,
+    "value": "24",
     "type": "number"
   },
   "Scale 04": {
-    "value": 20,
+    "value": "20",
     "type": "number"
   },
   "Scale 03": {
-    "value": 16,
+    "value": "16",
     "type": "number"
   },
   "Scale 02": {
-    "value": 14,
+    "value": "14",
     "type": "number"
   },
   "Scale 01": {
-    "value": 12,
+    "value": "12",
     "type": "number"
   }
 }

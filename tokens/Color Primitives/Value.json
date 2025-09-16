@@ -420,6 +420,10 @@
     }
   },
   "Unipol": {
+    "300": {
+      "value": "#469FFF",
+      "type": "color"
+    },
     "400": {
       "value": "#c4151c",
       "type": "color"
