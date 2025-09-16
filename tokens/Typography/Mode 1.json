@@ -1,7 +1,7 @@
 {
   "Title Page": {
     "Font Family": {
-      "value": "{Family Sans}",
+      "value": "{Font.ABC}",
       "type": "text"
     },
     "Font Weight": {
@@ -23,7 +23,7 @@
   },
   "Subtitle": {
     "Font Family": {
-      "value": "{Family Sans}",
+      "value": "{Font.ABC}",
       "type": "text"
     },
     "Size Base": {
@@ -45,7 +45,7 @@
   },
   "Body": {
     "Font Family": {
-      "value": "{Family Sans}",
+      "value": "{Font.ABC}",
       "type": "text"
     },
     "Font Style Italic": {
@@ -97,7 +97,7 @@
   },
   "Heading": {
     "Font Family": {
-      "value": "{Family Sans}",
+      "value": "{Font.ABC}",
       "type": "text"
     },
     "Size Base": {
@@ -119,7 +119,7 @@
   },
   "Title Hero": {
     "Font Family": {
-      "value": "{Family Sans}",
+      "value": "{Font.ABC}",
       "type": "text"
     },
     "Size": {
@@ -133,7 +133,7 @@
   },
   "Subheading": {
     "Font Family": {
-      "value": "{Family Sans}",
+      "value": "{Font.ABC}",
       "type": "text"
     },
     "Size Small": {

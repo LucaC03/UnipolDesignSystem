@@ -780,7 +780,7 @@
     }
   },
   "Font": {
-    "Family Font": {
+    "ABC": {
       "value": "{Family Sans}",
       "type": "text"
     },
@@ -858,5 +858,9 @@
       "value": "{Space.600}",
       "type": "spacing"
     }
+  },
+  "Font Family": {
+    "value": "Inter",
+    "type": "fontFamilies"
   }
 }

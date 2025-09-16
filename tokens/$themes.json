@@ -7,7 +7,7 @@
       "Color/SDS Light": "enabled"
     },
     "$figmaStyleReferences": {
-      "Accordion.Shadow": "S:572911dd66e03c7df21a205afc3a755e5d111b25,"
+      "Accordion.Shadow": "S:792d1d518ea6dbbc6dc171f194bee58b9b361823,"
     },
     "$figmaVariableReferences": {
       "Background.Default.Default": "191a403cd632487dd251241c04205fe9b1f3ca6b",
@@ -168,7 +168,7 @@
       "Tab.Stroke Deselected": "68b0b57d74f39fe097a4d69a6c43ecc2de8ad6fc",
       "Title.Title": "a27a8ca2c405f13c814a876691db7ae356bf52f8",
       "Title.Subtitle": "b7d06b5cecefaba654bffa824f543832896ad708",
-      "Font.Family Font": "7c1dde553114b3b256d8a598c2369a7ad5439a97",
+      "Font.ABC": "7c1dde553114b3b256d8a598c2369a7ad5439a97",
       "Font.Weight Bold": "24ee6c9de9610b3e1ab0c79a177ae9127b5e6b36",
       "Font.Weight Regular": "270b1909a7b65f677668e383186160144d5b0796",
       "Brand": "268aa6d3a024dbb55d7235d900617786a993d790",
@@ -186,9 +186,12 @@
       "Card.Padding Bottom": "e0b8868db7dc501457949f0d3f6d019a7881b27c",
       "Card.Gap": "eb819a32e8b77ad56caae1a90133d6af2f7affae",
       "Card.Text Margin": "20addd7f3498f8f5efcaba22522bdf7807d62782",
-      "Accordion.Open.Title": "b290cb8113f4cd21a5b08a2865e65878277f2fa6",
-      "Card.Border Radius": "81ff2699c127fb20a34505d83d5624861564ff02",
-      "Card.Border Width": "1fa1c29952964933a217705e742c490b5ac98e49"
+      "Page.Margin": "2c6a29f9b3bf01b4ae0a5b3b27d2738dbf944690",
+      "Page.Padding": "1b234529000f3497b4379ed5c08e67772f9adeb0",
+      "Font Family": "14b75b67da320777573d5935e510f544cb0ca44e",
+      "Accordion.Open.Title": "33444183140c50781cb23b4a82bb9356e79a1e64",
+      "Card.Border Radius": "1559598ea60103f660e33e554dab7e23be686e79",
+      "Card.Border Width": "e0066efc1253629b6dbfa1a8419dacfd89f74963"
     },
     "$figmaModeId": "3919:21",
     "$figmaCollectionId": "VariableCollectionId:3919:36422"
@@ -201,7 +204,7 @@
       "Color/SDS Dark": "enabled"
     },
     "$figmaStyleReferences": {
-      "Accordion.Shadow": "S:e1d0f2a4e2634b655ad45a6b190d3dd560104f32,"
+      "Accordion.Shadow": "S:14c7d58ce82bd6a3bab064f756bb3f6a6cf2eaa5,"
     },
     "$figmaVariableReferences": {
       "Background.Default.Default": "191a403cd632487dd251241c04205fe9b1f3ca6b",
@@ -362,7 +365,7 @@
       "Tab.Stroke Deselected": "68b0b57d74f39fe097a4d69a6c43ecc2de8ad6fc",
       "Title.Title": "a27a8ca2c405f13c814a876691db7ae356bf52f8",
       "Title.Subtitle": "b7d06b5cecefaba654bffa824f543832896ad708",
-      "Font.Family Font": "7c1dde553114b3b256d8a598c2369a7ad5439a97",
+      "Font.ABC": "7c1dde553114b3b256d8a598c2369a7ad5439a97",
       "Font.Weight Bold": "24ee6c9de9610b3e1ab0c79a177ae9127b5e6b36",
       "Font.Weight Regular": "270b1909a7b65f677668e383186160144d5b0796",
       "Brand": "268aa6d3a024dbb55d7235d900617786a993d790",
@@ -380,7 +383,10 @@
       "Card.Padding Bottom": "e0b8868db7dc501457949f0d3f6d019a7881b27c",
       "Card.Gap": "eb819a32e8b77ad56caae1a90133d6af2f7affae",
       "Card.Text Margin": "20addd7f3498f8f5efcaba22522bdf7807d62782",
-      "Accordion.Open.TItle": "03605daa4ecdd4c56b21790184775186bae73403"
+      "Page.Margin": "2c6a29f9b3bf01b4ae0a5b3b27d2738dbf944690",
+      "Page.Padding": "1b234529000f3497b4379ed5c08e67772f9adeb0",
+      "Font Family": "14b75b67da320777573d5935e510f544cb0ca44e",
+      "Accordion.Open.TItle": "00aa59d37d4b310c3ffb8f86aef307ab4154571b"
     },
     "$figmaModeId": "3919:22",
     "$figmaCollectionId": "VariableCollectionId:3919:36422"
@@ -535,7 +541,7 @@
       "Input.Title": "7e7bbbb295b272e8f87afb6117523fd3e755034d",
       "Accordion.Open.Background": "d13baf40041f8c5d4a18ab43609e7880b917068e",
       "Accordion.Open.Icon": "60b77853814ce41e2cae2a31acb89571380234d6",
-      "Accordion.Open.Title": "b290cb8113f4cd21a5b08a2865e65878277f2fa6",
+      "Accordion.Open.Title": "33444183140c50781cb23b4a82bb9356e79a1e64",
       "Accordion.Open.Body": "3c3f594cc14628b63be70f7047d89591f568472d",
       "Accordion.Open.Border": "0a8041fb393368d81b779dc8168f4d3a252b41aa",
       "Accordion.Closed.Background": "5e7e8c4b855ec33a0d985d7d763a8cf0f0ae01ac",
@@ -555,7 +561,7 @@
       "Tab.Stroke Deselected": "68b0b57d74f39fe097a4d69a6c43ecc2de8ad6fc",
       "Title.Title": "a27a8ca2c405f13c814a876691db7ae356bf52f8",
       "Title.Subtitle": "b7d06b5cecefaba654bffa824f543832896ad708",
-      "Font.Family Font": "7c1dde553114b3b256d8a598c2369a7ad5439a97",
+      "Font.ABC": "7c1dde553114b3b256d8a598c2369a7ad5439a97",
       "Font.Weight Bold": "24ee6c9de9610b3e1ab0c79a177ae9127b5e6b36",
       "Font.Weight Regular": "270b1909a7b65f677668e383186160144d5b0796",
       "Brand": "268aa6d3a024dbb55d7235d900617786a993d790",
@@ -567,13 +573,16 @@
       "Card.Title": "fb7134a4bfc5a2b2831d02e9c6880203863d54f7",
       "Card.Body": "2541b8e99188a77b8e3c8049562b794ee7324d81",
       "Card.Border": "20962a060c3533667ad6179d926775457dcc325b",
-      "Card.Border Radius": "81ff2699c127fb20a34505d83d5624861564ff02",
+      "Card.Border Radius": "1559598ea60103f660e33e554dab7e23be686e79",
       "Card.Padding Left": "fb0866840671ef93083f5115b456562f7e3fb0cd",
       "Card.Padding Right": "f39a996ef39b1955905aaa4dc95b9408ae4a5187",
       "Card.Padding Top": "c25ce11cda5758d3651d431501368c6d82291e42",
       "Card.Padding Bottom": "e0b8868db7dc501457949f0d3f6d019a7881b27c",
       "Card.Gap": "eb819a32e8b77ad56caae1a90133d6af2f7affae",
-      "Card.Text Margin": "20addd7f3498f8f5efcaba22522bdf7807d62782"
+      "Card.Text Margin": "20addd7f3498f8f5efcaba22522bdf7807d62782",
+      "Page.Margin": "2c6a29f9b3bf01b4ae0a5b3b27d2738dbf944690",
+      "Page.Padding": "1b234529000f3497b4379ed5c08e67772f9adeb0",
+      "Font Familyyy": "3a04807d10023ca505948f929a987380842cee16"
     },
     "$figmaModeId": "4245:0",
     "$figmaCollectionId": "VariableCollectionId:3919:36422"
