@@ -852,5 +852,15 @@
       "value": "{Radius.100}",
       "type": "borderRadius"
     }
+  },
+  "Page": {
+    "Margin": {
+      "value": "130",
+      "type": "spacing"
+    },
+    "Padding": {
+      "value": "{Space.600}",
+      "type": "spacing"
+    }
   }
 }

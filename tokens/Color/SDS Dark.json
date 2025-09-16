@@ -848,5 +848,15 @@
       "value": "{Space.0}",
       "type": "spacing"
     }
+  },
+  "Page": {
+    "Margin": {
+      "value": "100",
+      "type": "spacing"
+    },
+    "Padding": {
+      "value": "{Space.600}",
+      "type": "spacing"
+    }
   }
 }
