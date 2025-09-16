@@ -865,8 +865,38 @@
   },
   "Effects": {
     "shadow": {
-      "value": "{Black.200}",
+      "value": "{Null}",
       "type": "color"
+    }
+  },
+  "Panel Image Content": {
+    "Background": {
+      "value": "{Background.Default.Default}",
+      "type": "color"
+    },
+    "Title": {
+      "value": "{Text.Brand.Default}",
+      "type": "color"
+    },
+    "Body": {
+      "value": "{Text.Brand.Default}",
+      "type": "color"
+    },
+    "Margin": {
+      "value": "{Space.1600}",
+      "type": "spacing"
+    },
+    "Text Margin": {
+      "value": "{Space.0}",
+      "type": "spacing"
+    },
+    "Text Gap": {
+      "value": "{Space.600}",
+      "type": "spacing"
+    },
+    "Gap": {
+      "value": "{Space.1200}",
+      "type": "spacing"
     }
   }
 }

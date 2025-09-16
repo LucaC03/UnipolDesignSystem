@@ -7,7 +7,7 @@
       "Color/SDS Light": "enabled"
     },
     "$figmaStyleReferences": {
-      "Accordion.Shadow": "S:4eb05c2c163b5bda474939a382a6efde42facff0,"
+      "Accordion.Shadow": "S:397ccb65964ba9ff1ff1d0d7b6f54671b0d88111,"
     },
     "$figmaVariableReferences": {
       "Background.Default.Default": "191a403cd632487dd251241c04205fe9b1f3ca6b",
@@ -188,11 +188,18 @@
       "Card.Text Margin": "20addd7f3498f8f5efcaba22522bdf7807d62782",
       "Page.Margin": "2c6a29f9b3bf01b4ae0a5b3b27d2738dbf944690",
       "Page.Padding": "1b234529000f3497b4379ed5c08e67772f9adeb0",
-      "Font Family": "6155531857549a6184e26b0b98dd142c170543ff",
+      "Font Family": "96e8dce4db1835c6b6f9b1acf898e55250d90674",
       "Effects.shadow": "97d5be343859345674bbd9b10f48390c5e06f63c",
-      "Accordion.Open.Title": "2224f73df3b85cdd4adaaa01ce9f8a9bff5d28f4",
-      "Card.Border Radius": "e521f4c746f0937cca8545f6a59528a021638d64",
-      "Card.Border Width": "7c3990ead19b1d1f9897c73c2f5b53ce7de4363c"
+      "Panel Image Content.Background": "a791e7661749ff735d0f8cb424c4261ddafd3e51",
+      "Panel Image Content.Title": "58c395d88548c4a53b3c448353767b16bba54424",
+      "Panel Image Content.Body": "c7cff705948f3d91ce343751d7d203ac709f7148",
+      "Panel Image Content.Margin": "9e1e52b56e18591640e6c941f512fdd6395d257c",
+      "Panel Image Content.Text Margin": "de0f177ff7b4c5b86ec31ffd9200e3b13aa8e7db",
+      "Panel Image Content.Text Gap": "17c53bfecbd6ac89fc2162303dd280c967bb89d9",
+      "Panel Image Content.Gap": "a2598baeb47a6fa6d00ee1b051dccb858cea8d9a",
+      "Accordion.Open.Title": "c34e710f1751dd5bbb38fc304f5e14be23938a30",
+      "Card.Border Radius": "b5a7261d6286fd827d11e2b5adcc855867a55832",
+      "Card.Border Width": "1e400620ecc30cd9870479a63752f077cc27f098"
     },
     "$figmaModeId": "3919:21",
     "$figmaCollectionId": "VariableCollectionId:3919:36422"
@@ -205,7 +212,7 @@
       "Color/SDS Dark": "enabled"
     },
     "$figmaStyleReferences": {
-      "Accordion.Shadow": "S:9be5f0a21ca12b65f024e5fa9881a4877a352e37,"
+      "Accordion.Shadow": "S:084c2c8ec2ea8279728745832b86538905a26a0b,"
     },
     "$figmaVariableReferences": {
       "Background.Default.Default": "191a403cd632487dd251241c04205fe9b1f3ca6b",
@@ -386,9 +393,16 @@
       "Card.Text Margin": "20addd7f3498f8f5efcaba22522bdf7807d62782",
       "Page.Margin": "2c6a29f9b3bf01b4ae0a5b3b27d2738dbf944690",
       "Page.Padding": "1b234529000f3497b4379ed5c08e67772f9adeb0",
-      "Font Family": "6155531857549a6184e26b0b98dd142c170543ff",
+      "Font Family": "96e8dce4db1835c6b6f9b1acf898e55250d90674",
       "Effects.shadow": "97d5be343859345674bbd9b10f48390c5e06f63c",
-      "Accordion.Open.TItle": "3d4133621493a24065c3771f9f701dd48bbc9865"
+      "Panel Image Content.Margin": "9e1e52b56e18591640e6c941f512fdd6395d257c",
+      "Panel Image Content.Text Margin": "de0f177ff7b4c5b86ec31ffd9200e3b13aa8e7db",
+      "Panel Image Content.Text Gap": "17c53bfecbd6ac89fc2162303dd280c967bb89d9",
+      "Panel Image Content.Gap": "a2598baeb47a6fa6d00ee1b051dccb858cea8d9a",
+      "Panel Image Content.Background": "a791e7661749ff735d0f8cb424c4261ddafd3e51",
+      "Panel Image Content.Title": "58c395d88548c4a53b3c448353767b16bba54424",
+      "Panel Image Content.Body": "c7cff705948f3d91ce343751d7d203ac709f7148",
+      "Accordion.Open.TItle": "64fe1ae98f281dc25ee6e0ddc1083aa080081eec"
     },
     "$figmaModeId": "3919:22",
     "$figmaCollectionId": "VariableCollectionId:3919:36422"
@@ -548,7 +562,7 @@
       "Input.Stroke": "1ec2fe1f80f3cc0d71bdba95c7b7418bb2a3da90",
       "Accordion.Open.Background": "d13baf40041f8c5d4a18ab43609e7880b917068e",
       "Accordion.Open.Icon": "60b77853814ce41e2cae2a31acb89571380234d6",
-      "Accordion.Open.Title": "2224f73df3b85cdd4adaaa01ce9f8a9bff5d28f4",
+      "Accordion.Open.Title": "c34e710f1751dd5bbb38fc304f5e14be23938a30",
       "Accordion.Open.Body": "3c3f594cc14628b63be70f7047d89591f568472d",
       "Accordion.Open.Border": "0a8041fb393368d81b779dc8168f4d3a252b41aa",
       "Accordion.Closed.Background": "5e7e8c4b855ec33a0d985d7d763a8cf0f0ae01ac",
@@ -575,7 +589,7 @@
       "Card.Title": "fb7134a4bfc5a2b2831d02e9c6880203863d54f7",
       "Card.Body": "2541b8e99188a77b8e3c8049562b794ee7324d81",
       "Card.Border": "20962a060c3533667ad6179d926775457dcc325b",
-      "Card.Border Radius": "e521f4c746f0937cca8545f6a59528a021638d64",
+      "Card.Border Radius": "b5a7261d6286fd827d11e2b5adcc855867a55832",
       "Card.Padding Left": "fb0866840671ef93083f5115b456562f7e3fb0cd",
       "Card.Padding Right": "f39a996ef39b1955905aaa4dc95b9408ae4a5187",
       "Card.Padding Top": "c25ce11cda5758d3651d431501368c6d82291e42",
@@ -585,7 +599,14 @@
       "Page.Margin": "2c6a29f9b3bf01b4ae0a5b3b27d2738dbf944690",
       "Page.Padding": "1b234529000f3497b4379ed5c08e67772f9adeb0",
       "Effects.shadow": "97d5be343859345674bbd9b10f48390c5e06f63c",
-      "Font Familyyy": "30ce84e698f2ee2dfa9d958e066370098545737b"
+      "Panel Image Content.Margin": "9e1e52b56e18591640e6c941f512fdd6395d257c",
+      "Panel Image Content.Text Margin": "de0f177ff7b4c5b86ec31ffd9200e3b13aa8e7db",
+      "Panel Image Content.Text Gap": "17c53bfecbd6ac89fc2162303dd280c967bb89d9",
+      "Panel Image Content.Gap": "a2598baeb47a6fa6d00ee1b051dccb858cea8d9a",
+      "Panel Image Content.Background": "a791e7661749ff735d0f8cb424c4261ddafd3e51",
+      "Panel Image Content.Title": "58c395d88548c4a53b3c448353767b16bba54424",
+      "Panel Image Content.Body": "c7cff705948f3d91ce343751d7d203ac709f7148",
+      "Font Familyyy": "b683076f2543077fb4ae8e80773718016e7dc2ca"
     },
     "$figmaModeId": "4245:0",
     "$figmaCollectionId": "VariableCollectionId:3919:36422"
@@ -700,6 +721,7 @@
       "Brand B.900": "ef9d8bbf42a09d545ae70e419095f724858757be",
       "Brand B.1000": "ebc794f81266e8b167884c271729b80dcd9c5866",
       "Unipol.100": "b6c32815c764b7bd3c1f2df084a0a778267ad2cd",
+      "Unipol.50": "f152b80c82f220ec732f45b2ca73963472ac7e91",
       "Unipol.300": "3a97123a2076e4264433997cd4a1106f3cf4be7f",
       "Unipol.400": "2f2942fa84b6e67fb600b646b06dbea735a5ff6f",
       "Unipol.500": "dfdfcc7d4d575627a009115c2d1fda4a91afe7b1",
