@@ -39,7 +39,7 @@
         "description": "Bg/Brand/Default"
       },
       "Secondary": {
-        "value": "{Brand.200}",
+        "value": "{Unipol.100}",
         "type": "color",
         "description": "Bg/Brand/Secondary"
       },
@@ -741,7 +741,7 @@
         "y": "4",
         "blur": "10",
         "spread": "0",
-        "color": "rgba(0,0,0,0.1)",
+        "color": "{Effects.shadow}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -859,12 +859,18 @@
       "type": "spacing"
     },
     "Padding": {
-      "value": "{Space.600}",
+      "value": "{Space.1200}",
       "type": "spacing"
     }
   },
   "Font Familyyy": {
     "value": "Apex New",
     "type": "fontFamilies"
+  },
+  "Effects": {
+    "shadow": {
+      "value": "{Null}",
+      "type": "color"
+    }
   }
 }

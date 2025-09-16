@@ -745,7 +745,7 @@
         "y": "0",
         "blur": "0",
         "spread": "0",
-        "color": "{Null}",
+        "color": "{Effects.shadow}",
         "type": "innerShadow"
       },
       "type": "boxShadow"
@@ -870,5 +870,11 @@
   "Font Family": {
     "value": "Inter",
     "type": "fontFamilies"
+  },
+  "Effects": {
+    "shadow": {
+      "value": "{Black.200}",
+      "type": "color"
+    }
   }
 }
