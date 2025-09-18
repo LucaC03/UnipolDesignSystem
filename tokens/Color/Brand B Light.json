@@ -780,7 +780,7 @@
     }
   },
   "Font": {
-    "ABC": {
+    "Font": {
       "value": "{Family Unipol}",
       "type": "text"
     },
@@ -863,7 +863,7 @@
       "type": "spacing"
     }
   },
-  "Font Familyyy": {
+  "Font Family": {
     "value": "Apex New",
     "type": "fontFamilies"
   },

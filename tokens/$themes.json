@@ -7,7 +7,7 @@
       "Color/SDS Light": "enabled"
     },
     "$figmaStyleReferences": {
-      "Accordion.Shadow": "S:397ccb65964ba9ff1ff1d0d7b6f54671b0d88111,"
+      "Accordion.Shadow": "S:a53d4ea40f86c1a9b55d2596a4249a26da9af112,"
     },
     "$figmaVariableReferences": {
       "Background.Default.Default": "191a403cd632487dd251241c04205fe9b1f3ca6b",
@@ -188,7 +188,7 @@
       "Card.Text Margin": "20addd7f3498f8f5efcaba22522bdf7807d62782",
       "Page.Margin": "2c6a29f9b3bf01b4ae0a5b3b27d2738dbf944690",
       "Page.Padding": "1b234529000f3497b4379ed5c08e67772f9adeb0",
-      "Font Family": "96e8dce4db1835c6b6f9b1acf898e55250d90674",
+      "Font Family": "52c31149533cd5509fe0e7a27da5774164bb6195",
       "Effects.shadow": "97d5be343859345674bbd9b10f48390c5e06f63c",
       "Panel Image Content.Background": "a791e7661749ff735d0f8cb424c4261ddafd3e51",
       "Panel Image Content.Title": "58c395d88548c4a53b3c448353767b16bba54424",
@@ -197,9 +197,9 @@
       "Panel Image Content.Text Margin": "de0f177ff7b4c5b86ec31ffd9200e3b13aa8e7db",
       "Panel Image Content.Text Gap": "17c53bfecbd6ac89fc2162303dd280c967bb89d9",
       "Panel Image Content.Gap": "a2598baeb47a6fa6d00ee1b051dccb858cea8d9a",
-      "Accordion.Open.Title": "c34e710f1751dd5bbb38fc304f5e14be23938a30",
-      "Card.Border Radius": "b5a7261d6286fd827d11e2b5adcc855867a55832",
-      "Card.Border Width": "1e400620ecc30cd9870479a63752f077cc27f098"
+      "Accordion.Open.Title": "c44fdb7ac2db44c16e4d417cc3a2f0d4b0b02a1e",
+      "Card.Border Radius": "6e748a72cf6c4790e53c6f4e933f4934c7f98594",
+      "Card.Border Width": "36e00cce44d26ea935bc0fee46e632faeec92202"
     },
     "$figmaModeId": "3919:21",
     "$figmaCollectionId": "VariableCollectionId:3919:36422"
@@ -212,7 +212,7 @@
       "Color/SDS Dark": "enabled"
     },
     "$figmaStyleReferences": {
-      "Accordion.Shadow": "S:084c2c8ec2ea8279728745832b86538905a26a0b,"
+      "Accordion.Shadow": "S:b531d2d52fe0a6342b01d06a4af05a0ac00ae7f2,"
     },
     "$figmaVariableReferences": {
       "Background.Default.Default": "191a403cd632487dd251241c04205fe9b1f3ca6b",
@@ -393,7 +393,7 @@
       "Card.Text Margin": "20addd7f3498f8f5efcaba22522bdf7807d62782",
       "Page.Margin": "2c6a29f9b3bf01b4ae0a5b3b27d2738dbf944690",
       "Page.Padding": "1b234529000f3497b4379ed5c08e67772f9adeb0",
-      "Font Family": "96e8dce4db1835c6b6f9b1acf898e55250d90674",
+      "Font Family": "52c31149533cd5509fe0e7a27da5774164bb6195",
       "Effects.shadow": "97d5be343859345674bbd9b10f48390c5e06f63c",
       "Panel Image Content.Margin": "9e1e52b56e18591640e6c941f512fdd6395d257c",
       "Panel Image Content.Text Margin": "de0f177ff7b4c5b86ec31ffd9200e3b13aa8e7db",
@@ -402,7 +402,7 @@
       "Panel Image Content.Background": "a791e7661749ff735d0f8cb424c4261ddafd3e51",
       "Panel Image Content.Title": "58c395d88548c4a53b3c448353767b16bba54424",
       "Panel Image Content.Body": "c7cff705948f3d91ce343751d7d203ac709f7148",
-      "Accordion.Open.TItle": "64fe1ae98f281dc25ee6e0ddc1083aa080081eec"
+      "Accordion.Open.TItle": "d62d1065e20519cf6d084a8bef3de51723adf0ae"
     },
     "$figmaModeId": "3919:22",
     "$figmaCollectionId": "VariableCollectionId:3919:36422"
@@ -562,7 +562,7 @@
       "Input.Stroke": "1ec2fe1f80f3cc0d71bdba95c7b7418bb2a3da90",
       "Accordion.Open.Background": "d13baf40041f8c5d4a18ab43609e7880b917068e",
       "Accordion.Open.Icon": "60b77853814ce41e2cae2a31acb89571380234d6",
-      "Accordion.Open.Title": "c34e710f1751dd5bbb38fc304f5e14be23938a30",
+      "Accordion.Open.Title": "c44fdb7ac2db44c16e4d417cc3a2f0d4b0b02a1e",
       "Accordion.Open.Body": "3c3f594cc14628b63be70f7047d89591f568472d",
       "Accordion.Open.Border": "0a8041fb393368d81b779dc8168f4d3a252b41aa",
       "Accordion.Closed.Background": "5e7e8c4b855ec33a0d985d7d763a8cf0f0ae01ac",
@@ -579,7 +579,6 @@
       "Tab.Stroke Deselected": "68b0b57d74f39fe097a4d69a6c43ecc2de8ad6fc",
       "Title.Title": "a27a8ca2c405f13c814a876691db7ae356bf52f8",
       "Title.Subtitle": "b7d06b5cecefaba654bffa824f543832896ad708",
-      "Font.ABC": "7c1dde553114b3b256d8a598c2369a7ad5439a97",
       "Font.Weight Bold": "24ee6c9de9610b3e1ab0c79a177ae9127b5e6b36",
       "Font.Weight Regular": "270b1909a7b65f677668e383186160144d5b0796",
       "Brand": "268aa6d3a024dbb55d7235d900617786a993d790",
@@ -589,7 +588,7 @@
       "Card.Title": "fb7134a4bfc5a2b2831d02e9c6880203863d54f7",
       "Card.Body": "2541b8e99188a77b8e3c8049562b794ee7324d81",
       "Card.Border": "20962a060c3533667ad6179d926775457dcc325b",
-      "Card.Border Radius": "b5a7261d6286fd827d11e2b5adcc855867a55832",
+      "Card.Border Radius": "6e748a72cf6c4790e53c6f4e933f4934c7f98594",
       "Card.Padding Left": "fb0866840671ef93083f5115b456562f7e3fb0cd",
       "Card.Padding Right": "f39a996ef39b1955905aaa4dc95b9408ae4a5187",
       "Card.Padding Top": "c25ce11cda5758d3651d431501368c6d82291e42",
@@ -598,6 +597,7 @@
       "Card.Text Margin": "20addd7f3498f8f5efcaba22522bdf7807d62782",
       "Page.Margin": "2c6a29f9b3bf01b4ae0a5b3b27d2738dbf944690",
       "Page.Padding": "1b234529000f3497b4379ed5c08e67772f9adeb0",
+      "Font Family": "52c31149533cd5509fe0e7a27da5774164bb6195",
       "Effects.shadow": "97d5be343859345674bbd9b10f48390c5e06f63c",
       "Panel Image Content.Margin": "9e1e52b56e18591640e6c941f512fdd6395d257c",
       "Panel Image Content.Text Margin": "de0f177ff7b4c5b86ec31ffd9200e3b13aa8e7db",
@@ -606,7 +606,7 @@
       "Panel Image Content.Background": "a791e7661749ff735d0f8cb424c4261ddafd3e51",
       "Panel Image Content.Title": "58c395d88548c4a53b3c448353767b16bba54424",
       "Panel Image Content.Body": "c7cff705948f3d91ce343751d7d203ac709f7148",
-      "Font Familyyy": "b683076f2543077fb4ae8e80773718016e7dc2ca"
+      "Font.Font": "7c1dde553114b3b256d8a598c2369a7ad5439a97"
     },
     "$figmaModeId": "4245:0",
     "$figmaCollectionId": "VariableCollectionId:3919:36422"
@@ -720,8 +720,8 @@
       "Brand B.800": "e9e1f9e867a149aca524462386d92b2e2fdee542",
       "Brand B.900": "ef9d8bbf42a09d545ae70e419095f724858757be",
       "Brand B.1000": "ebc794f81266e8b167884c271729b80dcd9c5866",
-      "Unipol.100": "b6c32815c764b7bd3c1f2df084a0a778267ad2cd",
       "Unipol.50": "f152b80c82f220ec732f45b2ca73963472ac7e91",
+      "Unipol.100": "b6c32815c764b7bd3c1f2df084a0a778267ad2cd",
       "Unipol.300": "3a97123a2076e4264433997cd4a1106f3cf4be7f",
       "Unipol.400": "2f2942fa84b6e67fb600b646b06dbea735a5ff6f",
       "Unipol.500": "dfdfcc7d4d575627a009115c2d1fda4a91afe7b1",
